@@ -1,11 +1,29 @@
 <!-- SWITCH -->
+
 <p align="center">
   <a href="README.pt.md">🇧🇷 PT</a> • <strong>EN</strong>
 </p>
 
 <!-- BANNER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,100:1c2541&height=200&section=header&text=Manuela%20Ramos&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tech%20%7C%20Design%20%7C%20Digital&descAlignY=60"/>
+</p>
+
+<!-- TYPING (AUTO LIGHT/DARK) -->
+
+<p align="center">
+  <picture>
+    <!-- DARK MODE -->
+    <source 
+      srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Designing+digital+experiences;Front-end+%7C+UX%2FUI"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- LIGHT MODE -->
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=1C2541&center=true&vCenter=true&width=600&lines=Designing+digital+experiences;Front-end+%7C+UX%2FUI"
+    />
+  </picture>
 </p>
 
 ---
@@ -64,11 +82,46 @@ I build digital experiences that connect <b>technology, design and user experien
 
 ---
 
+<h2 align="center">📊 GitHub Insights</h2>
+
+<p align="center">
+
+  <picture>
+    <!-- DARK MODE -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=manuelalramos&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- LIGHT MODE -->
+    <img 
+      height="160"
+      src="https://github-readme-stats.vercel.app/api?username=manuelalramos&show_icons=true&theme=default&hide_border=true"
+    />
+  </picture>
+
+  <picture>
+    <!-- DARK MODE -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelalramos&layout=compact&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- LIGHT MODE -->
+    <img 
+      height="160"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelalramos&layout=compact&theme=default&hide_border=true"
+    />
+  </picture>
+
+</p>
+
+---
+
 <p align="center">
 ✨ <i>building digital experiences with intention</i>
 </p>
 
 <!-- FOOTER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2541,100:0b132b&height=120&section=footer"/>
 </p>
