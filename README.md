@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center">✦ About Me</h2>
 
 <p align="center">
 ADS student @ FIAP • Multimedia background <br>
@@ -37,7 +37,7 @@ I build digital experiences that connect <b>technology, design and user experien
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">✦ Tech Stack</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,figma&theme=dark" />
@@ -45,7 +45,7 @@ I build digital experiences that connect <b>technology, design and user experien
 
 ---
 
-<h2 align="center">🎨 Design & Tools</h2>
+<h2 align="center">✦ Design & Tools</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Photoshop-0b132b?style=for-the-badge&logo=adobephotoshop"/>
@@ -56,7 +56,7 @@ I build digital experiences that connect <b>technology, design and user experien
 
 ---
 
-<h2 align="center">🚀 What I'm doing</h2>
+<h2 align="center">✦ What I'm doing</h2>
 
 <p align="center">
 💻 Front-end development <br>
@@ -66,7 +66,7 @@ I build digital experiences that connect <b>technology, design and user experien
 
 ---
 
-<h2 align="center">📫 Connect with me</h2>
+<h2 align="center">✦ Connect with me</h2>
 
 <p align="center">
 <a href="mailto:manuelalimramos@hotmail.com">
@@ -82,7 +82,7 @@ I build digital experiences that connect <b>technology, design and user experien
 
 ---
 
-<h2 align="center">📊 GitHub Insights</h2>
+<h2 align="center">✦ GitHub Insights</h2>
 
 <p align="center">
 
@@ -117,7 +117,7 @@ I build digital experiences that connect <b>technology, design and user experien
 ---
 
 <p align="center">
-✨ <i>building digital experiences with intention</i>
+✦ <i>building digital experiences with intention</i>
 </p>
 
 <!-- FOOTER -->
