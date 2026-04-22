@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">👩‍💻 Sobre mim</h2>
+<h2 align="center">✦ Sobre mim</h2>
 
 <p align="center">
 Estudante de ADS na FIAP • Background em multimídia <br>
@@ -37,7 +37,7 @@ Desenvolvo experiências digitais que conectam <b>tecnologia, design e experiên
 
 ---
 
-<h2 align="center">⚡ Tecnologias</h2>
+<h2 align="center">✦ Tecnologias</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,figma&theme=dark" />
@@ -45,7 +45,7 @@ Desenvolvo experiências digitais que conectam <b>tecnologia, design e experiên
 
 ---
 
-<h2 align="center">🎨 Design & Ferramentas</h2>
+<h2 align="center">✦ Design & Ferramentas</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Photoshop-0b132b?style=for-the-badge&logo=adobephotoshop"/>
@@ -56,7 +56,7 @@ Desenvolvo experiências digitais que conectam <b>tecnologia, design e experiên
 
 ---
 
-<h2 align="center">🚀 O que estou fazendo</h2>
+<h2 align="center">✦ O que estou fazendo</h2>
 
 <p align="center">
 💻 Desenvolvimento front-end <br>
@@ -66,7 +66,7 @@ Desenvolvo experiências digitais que conectam <b>tecnologia, design e experiên
 
 ---
 
-<h2 align="center">📫 Contato</h2>
+<h2 align="center">✦ Contato</h2>
 
 <p align="center">
 <a href="mailto:manuelalimramos@hotmail.com">
@@ -82,7 +82,7 @@ Desenvolvo experiências digitais que conectam <b>tecnologia, design e experiên
 
 ---
 
-<h2 align="center">📊 GitHub Insights</h2>
+<h2 align="center">✦ GitHub Insights</h2>
 
 <p align="center">
 
@@ -117,7 +117,7 @@ Desenvolvo experiências digitais que conectam <b>tecnologia, design e experiên
 ---
 
 <p align="center">
-✨ <i>criando experiências digitais com intenção</i>
+✦ <i>criando experiências digitais com intenção</i>
 </p>
 
 <!-- FOOTER -->
