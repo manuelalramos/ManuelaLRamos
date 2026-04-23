@@ -40,7 +40,7 @@ I build digital experiences that connect <b>technology, design and user experien
 <h2 align="center">✦ Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,figma,git,github&theme=dark" />
 </p>
 
 ---
@@ -50,6 +50,7 @@ I build digital experiences that connect <b>technology, design and user experien
 <p align="center">
 <img src="https://img.shields.io/badge/Photoshop-0b132b?style=for-the-badge&logo=adobephotoshop"/>
 <img src="https://img.shields.io/badge/Illustrator-0b132b?style=for-the-badge&logo=adobeillustrator"/>
+<img src="https://img.shields.io/badge/Animate-0b132b?style=for-the-badge&logo=canva"/>
 <img src="https://img.shields.io/badge/After%20Effects-0b132b?style=for-the-badge&logo=adobeaftereffects"/>
 <img src="https://img.shields.io/badge/Canva-0b132b?style=for-the-badge&logo=canva"/>
 </p>
