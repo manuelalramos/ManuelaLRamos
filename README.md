@@ -91,7 +91,7 @@ I build digital experiences that connect <b>technology, design and user experien
     <!-- DARK MODE -->
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=manuelalramos&show_icons=true&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
+      media="(prefers-color-scheme: darK)"
     />
     <!-- LIGHT MODE -->
     <img 
