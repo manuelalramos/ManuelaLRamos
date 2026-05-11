@@ -111,6 +111,10 @@ I create digital experiences that connect <br>
 </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manuelalramose&color=blueviolet&style=for-the-badge" />
+</p>
+
 ---
 
 <p align="center">
