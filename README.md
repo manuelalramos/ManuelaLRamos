@@ -100,7 +100,7 @@ I create digital experiences that connect <br>
 <h2 align="center">✦ Connect</h2>
 
 <p align="center">
-<a href="mailto:contato.manuelalramos@gmail.com">
+<a href="mailto:contato@manuelalramos.com.br">
   <img src="https://img.shields.io/badge/Email-5f6cff?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/manuelalramos">
