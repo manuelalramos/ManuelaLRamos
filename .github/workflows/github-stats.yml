@@ -1,4 +1,4 @@
-name: Update GitHub Stats
+name: Update GitHub Insights
 
 on:
   schedule:
@@ -15,7 +15,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
+
+      - name: Create profile folder
+        run: mkdir -p profile
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -33,10 +36,22 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Update GitHub Streak
+        run: |
+          curl -L --fail --retry 3 \
+          "https://streak-stats.demolab.com/?user=manuelalramos&theme=tokyonight&hide_border=true&ring=7C83FD&fire=22c55e&currStreakLabel=7C83FD" \
+          -o profile/streak-temp.svg && mv profile/streak-temp.svg profile/streak.svg || true
+
+      - name: Update Activity Graph
+        run: |
+          curl -L --fail --retry 3 \
+          "https://github-readme-activity-graph.vercel.app/graph?username=manuelalramos&bg_color=0d1117&color=7C83FD&line=22c55e&point=ffffff&area=true&hide_border=true" \
+          -o profile/activity-temp.svg && mv profile/activity-temp.svg profile/activity.svg || true
+
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update GitHub stats" || exit 0
+          git add profile/
+          git commit -m "Update GitHub insights" || exit 0
           git push
